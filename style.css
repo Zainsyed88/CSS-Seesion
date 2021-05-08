@@ -1,9 +1,9 @@
-h2 {
+#name {
     color: red;
     border: dotted;
     background-color: black;
   }
-  p {
+  .education {
     font-size: 24px;
     border-bottom: solid;
     font-weight: 900;
@@ -11,4 +11,8 @@ h2 {
   }
   ul{
       font-size: 10px;
+  }
+  .contact {
+      font-size: 8px;
+
   }
