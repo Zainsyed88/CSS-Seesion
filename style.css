@@ -1,0 +1,14 @@
+h2 {
+    color: red;
+    border: dotted;
+    background-color: black;
+  }
+  p {
+    font-size: 24px;
+    border-bottom: solid;
+    font-weight: 900;
+    background-color: chartreuse;
+  }
+  ul{
+      font-size: 10px;
+  }
